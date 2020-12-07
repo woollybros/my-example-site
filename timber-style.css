@@ -92,8 +92,8 @@ body {
     background-color: #dfbbfa;
     color: #420073;
     text-align: center;
-    font-size: 3rem;
-    padding: 60px 45px;
+    font-size: 2rem;
+    padding: 0px 45px 60px 45px;
 }
 
 .friends-inner {
@@ -112,11 +112,12 @@ body {
     display: block;
     margin: auto;
     border-radius: 30px;
+    margin-top: 0;
 }
 
 .dog-friend h3 {
     font-size: 2.5rem;
-    margin: 10px;
+    margin: 10px 0 0 0;
 }
 
 .dog-friend p {
